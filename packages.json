@@ -18,5 +18,9 @@
   {
     "package": "likelihood.model",
     "url": "https://github.com/queelius/likelihood.model"
+  },
+  {
+    "package": "compositional.mle",
+    "url": "https://github.com/queelius/compositional.mle"
   }
 ]
