@@ -34,5 +34,9 @@
   {
     "package": "likelihood.model.series.md",
     "url": "https://github.com/queelius/likelihood.model.series.md"
+  },
+  {
+    "package": "dfr.dist",
+    "url": "https://github.com/queelius/dfr.dist"
   }
 ]
